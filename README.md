@@ -1,5 +1,11 @@
 ## Hi there 👋
+# Halo semua! 
 
+Perkenalkan nama saya **Akmal Rendiansyah**.<br>
+
+Saya seorang *Mahasiswa** di Politeknik Negeri Padang.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/akmal-rendiansyah-001692176/) ku ya.
 <!--
 **AkmalRendiansyah/AkmalRendiansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
